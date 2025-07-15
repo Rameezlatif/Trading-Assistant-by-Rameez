@@ -118,7 +118,7 @@ This is a **manual confirmation strategy**, not for automated live trading yet. 
 
 ## 🧑‍💼 Author & License
 
-Developed by \[Your Name]
+Developed by \Rameez Hassan Pirzada
 🔒 MIT License
 
 This tool may be sold commercially in Pakistan or globally. For white-label licensing, contact \[your email].
